@@ -12,14 +12,13 @@ This project analyzes HR data from 1,470 employees over a 10-year period to unco
 
 
 - The **Technology department** has the highest number of employees.  
-- The majority of employees are aged **20–29**, indicating a **young workforce**.  
-- Gender distribution is balanced, with **women slightly outnumbering men** and **non-binary individuals** representing **8.5%** of the workforce.  
 - A spike in hiring occurred in **2022**, marking the highest number of active employees to date.
 
 ### Diversity and Compensation Analysis  
 <img width="1098" height="634" alt="image" src="https://github.com/user-attachments/assets/4ae04161-cf24-436c-98b0-3ffe5c7755f8" />
 
-
+- The majority of employees are aged **20–29**, indicating a **young workforce**.  
+- Gender distribution is balanced, with **women slightly outnumbering men** and **non-binary individuals** representing **8.5%** of the workforce.  
 #### Recommendations  
 - Conduct a **pay equity audit** across ethnic groups.  
 - Improve **transparency in compensation** and ensure that advancement is equitable.  
